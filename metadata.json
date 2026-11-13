@@ -1,0 +1,6 @@
+{
+  "name": "L.H. Property Solutions",
+  "description": "Premium property renovations, interior fit-outs, maintenance, and general building works. 100% Recommended by our clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
